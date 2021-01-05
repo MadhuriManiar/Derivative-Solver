@@ -1,0 +1,2 @@
+# Wario-World-Economics
+Wario is up to his old tricks again, trying to make as much money as possible through a new Mushroom Kingdom pyramid scheme. As any good financial analytic knows, the best way to maximize profits is through calculus (Specifically derivatives). Having no advanced math skills, Wario has hired you to create a program that will help him create derivatives necessary for his financial analysis.
